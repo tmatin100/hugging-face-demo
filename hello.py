@@ -6,10 +6,6 @@ def more_hello():
 def more_goodbye():
     return "bye"
 
-
-if __name__ == "__main__":
-    more_hello()
-
 # This is nonsense code that generates a warning
 # var = 1
 # var = var
