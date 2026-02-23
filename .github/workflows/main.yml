@@ -13,10 +13,6 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - name: Add remote 
-        env:
-          HG: ${{ secrets.HG }}
-        run: git remote add space https://tmatin100:$HG@huggingface.co/spaces/tmatin100/MLOps-demo
       - name: Push to hub
         env:
           HG: ${{ secrets.HG }}
