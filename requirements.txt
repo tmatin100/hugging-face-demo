@@ -3,6 +3,7 @@ pytest==9.0.2
 pytest-cov==7.0.0
 black==26.1.0
 ipython==9.10.0
-gradio
+torch
 transformers
-tensorflow
+gradio>=4.0.0
+setuptools
