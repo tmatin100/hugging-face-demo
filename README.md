@@ -1,1 +1,1 @@
-# higging-face-demo2
+# hugging-face-demo2
