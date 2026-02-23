@@ -1,13 +1,13 @@
 ---
-title: Demo
-emoji: 🌖
-colorFrom: purple
-colorTo: purple
+title: MLOps Demo
+emoji: 🤖
+colorFrom: blue
+colorTo: green
 sdk: gradio
-sdk_version: 3.0.6
+sdk_version: "4.0.0"
+python_version: "3.10"
 app_file: app.py
 pinned: false
-license: cc
 ---
 
 # End to End MLOps HuggingFace Spaces
