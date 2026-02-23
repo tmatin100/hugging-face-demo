@@ -5,5 +5,5 @@ black
 ipython
 torch
 transformers==4.40.0
-gradio
+gradio==6.6.0
 setuptools
